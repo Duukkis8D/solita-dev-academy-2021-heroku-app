@@ -1,2 +1,0 @@
-#appContainer{max-width:900px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr 1fr;grid-template-rows:.8fr 1fr 4fr}h1{font-size:30px;padding:5px;margin:20px 10px 10px;grid-column-start:1;grid-column-end:span 3}button,input,p,table{font-size:18px}#filterContainer,#namesListContainer,#sortNamesContainer,#totalAmountContainer{border:2px solid #000;padding:5px;margin:10px}#namesListContainer{grid-column-start:1;grid-column-end:span 3}
-/*# sourceMappingURL=main.db7d052a.chunk.css.map */
